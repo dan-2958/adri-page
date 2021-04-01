@@ -1,2 +1,0 @@
-# adri-page
-cuestionario
